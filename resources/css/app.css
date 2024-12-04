@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-geist {
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+}
